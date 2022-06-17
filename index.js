@@ -11,10 +11,17 @@ function isPalindrome(word) {
 
   return true;
 }
+/* FOR EXAMPLE IN THE WORD ABBA 
+a b b a
+i     j
+a b b a
+  i j
+*/
 
 /* 
   Add your pseudocode here
-If the first letter is the same as the last letter and the second letter is equal to the second last letter and so on, hence return true , otherwise, return false
+If the first letter is the same as the last letter and the second letter is equal to the second last letter 
+and so on, hence return true , otherwise, return false
 
 */
 
